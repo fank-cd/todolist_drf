@@ -19,4 +19,4 @@ A exercise demo about Django Rest framework and jwt
 > pip install -r requirements.txt
 
 ## Usage
-> python manage.py start
+> python manage.py runserver
